@@ -1,4 +1,11 @@
-### Hi there 👋
+### Kia Ora 👋
+My name is Jamie Foley
+
+- 📍 Currently in the Netherlands
+- 🧑‍🌾 Soon to be working on an organic farm in the U.K.
+- 🌱 I’m currently learning SQL and Python for Data Analysis
+- 📫 You can reach me via email @ jamie.foley97@gmail.com
+
 
 <!--
 **JamieFoley/JamieFoley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
