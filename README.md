@@ -1,8 +1,6 @@
 ### Kia Ora 👋
 My name is Jamie Foley
 
-- 🌱 Learning and applying SQL and Python for Data Analysis
-- ☕ Also learning Java
 - 📫 You can reach me via email @ jamie.foley97@gmail.com
 
 
